@@ -1,7 +1,7 @@
 # HIRA Bookmarks
 This is a Repo for HIRA Institute's Student Bookmarks 
 
-Page is based off of Darek Kay's [Static Marks](https://github.com/darekkay/static-marks) Project
+Page is based off of Darek Kay's [Static Marks](https://github.com/darekkay/static-marks) Project<br>
 Which is Licensed under The MIT License (MIT) as seen below!
 
 ```The MIT License (MIT)
